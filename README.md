@@ -3,6 +3,7 @@ Green Pill Nano is an Arduino board, pin compatible with Arduino Nano, designed 
 - ultra low power (1uA and below in various sleep modes)
 - ability to do real debug using ST-Link
 - 10x more RAM and 4x more Flash than an Arduino Nano
+- 2x faster (runs at 32MHz)
 - built-in RTC
 - built-in USB FS
 - USB C connector
