@@ -1,5 +1,13 @@
 # Green-Pill-Nano-Hardware
-Pinout and schematic of Green Pill Nano board
+Green Pill Nano is an Arduino board, pin compatible with Arduino Nano, and designed to be ultra low power. Some of the features include:
+- ultra low power (1uA and below in various sleep modes)
+- ability to do real debug using ST-Link
+- 10x more RAM and 4x more Flash than an Arduino Nano
+- USB C connector
+- USB Over current protection
+- ESD protection
+- EMI protection
+- Reverse battery protection
 ## License
 
 Copyright © 2025 LeanMCU
